@@ -1,4 +1,8 @@
-/* Custom body line height */
+/*
+ * Style 10 - Section Tagline Styling
+ * Adds styling variables for section taglines with uppercase transformation
+ * Introduces --section-tagline-transform custom property
+ */
 :root {
     --color-primary: #d73953;
     --color-black: #090909;

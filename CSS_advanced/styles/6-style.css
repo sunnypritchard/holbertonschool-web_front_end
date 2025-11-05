@@ -1,4 +1,8 @@
-/* Custom font weight */
+/*
+ * Style 6 - Font Weight Variables
+ * Adds font weight custom properties for consistent typography
+ * Defines regular (400) and bold (700) font weights
+ */
 :root {
     --color-primary: #d73953;
     --color-black: #090909;

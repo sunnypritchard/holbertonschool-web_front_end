@@ -1,4 +1,8 @@
-/* Custom body line height */
+/*
+ * Style 8 - Line Height Variables
+ * Introduces line-height custom properties for improved readability
+ * Defines small (1.2), base (1.5), and big (1.8) line height values
+ */
 :root {
     --color-primary: #d73953;
     --color-black: #090909;

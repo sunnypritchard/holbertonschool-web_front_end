@@ -1,6 +1,8 @@
-/* 
-    Specify the scrolling behavior of the page
-*/
+/*
+ * Style 1 - Smooth Scrolling
+ * Enables smooth scrolling behavior for the HTML element
+ * Provides a smooth animated transition when navigating to anchor links
+ */
 html {
     scroll-behavior: smooth;
 }

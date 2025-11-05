@@ -1,4 +1,6 @@
-/* Specify the scrolling behavior */
+/* 
+    Specify the scrolling behavior of the page
+*/
 html {
     scroll-behavior: smooth;
 }

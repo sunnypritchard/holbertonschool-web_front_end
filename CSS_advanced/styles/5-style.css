@@ -1,4 +1,8 @@
-/* Custom body font size */
+/*
+ * Style 5 - Font Size Variables
+ * Introduces font size custom properties with rem-based sizing system
+ * Sets HTML font-size to 62.5% for easier rem calculations (1rem = 10px)
+ */
 :root {
     --color-primary: #d73953;
     --color-black: #090909;

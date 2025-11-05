@@ -1,4 +1,8 @@
-/* Font Family Variables */
+/*
+ * Style 4 - Font Family Variables
+ * Adds CSS custom properties for font family management
+ * Defines base font for body text and title font for headings
+ */
 :root {
     --color-primary: #d73953;
     --color-black: #090909;

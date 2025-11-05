@@ -1,4 +1,8 @@
-/* Color Variables */
+/*
+ * Style 3 - CSS Color Variables
+ * Introduces CSS custom properties for color management
+ * Defines color palette including primary, black, white, and grey shades
+ */
 :root {
     --color-primary: #d73953;
     --color-black: #090909;

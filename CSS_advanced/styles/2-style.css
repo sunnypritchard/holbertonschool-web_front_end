@@ -1,4 +1,8 @@
-/* CSS styling for colors and visibility */
+/*
+ * Style 2 - Basic Colors and Visibility
+ * Defines text colors for body and links, adds visibility helper class
+ * Introduces primary color for card categories and section taglines
+ */
 html {
     scroll-behavior: smooth;
 }

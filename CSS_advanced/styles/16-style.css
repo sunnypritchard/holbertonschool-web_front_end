@@ -355,10 +355,10 @@ template {
 }
 
 /*
- * Style 15 - Universal Box Sizing
- * Adds universal box-sizing: border-box for predictable element sizing
- * Ensures padding and border are included in element width/height calculations
- */
+* Style 16 - Container Styling
+* Adds container class with fixed width and centered alignment
+* Creates a 960px wide centered container for content layout
+*/
 :root {
     --color-primary: #d73953;
     --color-black: #090909;

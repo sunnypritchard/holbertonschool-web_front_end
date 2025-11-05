@@ -1,4 +1,8 @@
-/* Remove default text decoration on links */
+/*
+ * Style 9 - Link Text Decoration
+ * Removes default underline from links for cleaner appearance
+ * Maintains color inheritance from parent elements
+ */
 :root {
     --color-primary: #d73953;
     --color-black: #090909;

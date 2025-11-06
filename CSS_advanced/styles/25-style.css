@@ -414,14 +414,14 @@ template {
 
     /* button */
     --button-display: inline-block;
-    --button-padding: 1rem 2rem;
+    --button-padding: 1.5rem 3rem;
     --button-border: 0.2rem solid var(--color-primary);
     --button-color: var(--color-black);
     --button-text-decoration: none;
-    --button-font-size: var(var(--font-size-large));
+    --button-font-size: var(--font-size-large);
     --button-hover-color: var(--color-white);
-    --button-hover-color-text-decoration: none;
-    --button-hover-background-color: var(--color-primary);
+    --button-hover-text-decoration: none;
+    --button-hover-background: var(--color-primary);
 }
 
 *, *::before, *::after {
@@ -472,8 +472,8 @@ a:active {
 
 .button:hover {
     color: var(--button-hover-color);
-    background-color: var(--button-hover-background-color);
-    text-decoration: var(--button-hover-color-text-decoration);
+    text-decoration: var(--button-hover-text-decoration);
+    background: var(--button-hover-background);
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -623,7 +623,7 @@ ul.row {
 .card-services a {
   display: block;
   padding: 2rem;
-  background-color: var(--color-light-grey);
+  background: var(--color-light-grey);
 }
 .card-services a:hover {
   color: var(--color-white);

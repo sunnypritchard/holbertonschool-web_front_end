@@ -595,10 +595,10 @@ ul.row {
 .card-services a {
   display: block;
   padding: 2rem;
-  background: var(--color-light-grey);
+  background-color: var(--color-light-grey);
 }
 .card-services a:hover {
-  background: var(--color-primary);
   color: var(--color-white);
+  background: var(--color-primary);
   text-decoration: none;
 }
